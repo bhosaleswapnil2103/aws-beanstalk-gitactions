@@ -22,6 +22,6 @@ jobs:
         aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         application_name: golang-webapi
         environment_name: test-env
-        version_label: swap3456
+        version_label: swap874wa34
         region: us-east-1
         deployment_package: deploy.zip
